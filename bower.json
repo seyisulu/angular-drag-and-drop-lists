@@ -1,12 +1,19 @@
 {
   "name": "angular-dnd-lists",
   "main": "angular-drag-and-drop-lists.js",
-  "version": "2.1.1",
-  "homepage": "https://github.com/seyisulu/angular-drag-and-drop-lists.git",
+  "version": "2.1.2",
+  "homepage": "https://github.com/seyisulu/angular-drag-and-drop-lists",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/seyisulu/angular-drag-and-drop-lists.git"
+  },
   "authors": [
     "Marcel Juenemann <marcel@juenemann.cc>",
     "Emmanuel Olowosulu <eolowo@sulusoft.com>"
   ],
+  "bugs": {
+      "url": "https://github.com/seyisulu/angular-drag-and-drop-lists/issues"
+  },
   "description": "Angular directives for sorting nested lists using the HTML5 Drag & Drop API",
   "keywords": [
     "angular",

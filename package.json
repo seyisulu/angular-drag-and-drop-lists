@@ -1,9 +1,13 @@
 {
     "name": "angular-dnd-lists",
     "main": "angular-drag-and-drop-lists.js",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "description": "Angular directives for sorting nested lists using the HTML5 Drag and Drop API",
-    "repository": "https://github.com/seyisulu/angular-drag-and-drop-lists",
+    "homepage": "https://github.com/seyisulu/angular-drag-and-drop-lists",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seyisulu/angular-drag-and-drop-lists.git"
+    },
     "license": "MIT",
     "devDependencies": {
         "angular": "~1.4.9",
