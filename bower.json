@@ -1,8 +1,8 @@
 {
-  "name": "angular-drag-and-drop-lists",
+  "name": "angular-dnd-lists",
   "main": "angular-drag-and-drop-lists.js",
   "version": "2.1.1",
-  "homepage": "https://github.com/seyisulu/angular-drag-and-drop-lists",
+  "homepage": "https://github.com/seyisulu/angular-drag-and-drop-lists.git",
   "authors": [
     "Marcel Juenemann <marcel@juenemann.cc>",
     "Emmanuel Olowosulu <eolowo@sulusoft.com>"

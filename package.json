@@ -1,5 +1,5 @@
 {
-    "name": "angular-drag-and-drop-lists",
+    "name": "angular-dnd-lists",
     "main": "angular-drag-and-drop-lists.js",
     "version": "2.1.1",
     "description": "Angular directives for sorting nested lists using the HTML5 Drag and Drop API",
